@@ -6,7 +6,7 @@ Programa Full Stack Rocketseat
 
 # Projeto Convert 
 
-O projeto desenvolvido durante os modulos de JavaScript Basico dentro da trilha full stack do programa da Rocketseat. Foi adicionada asfuncionalidades como a conversão de moedas, seleção de moedas e validação do campo de entrada. Recomendo adicionar essa aplicação ao seu portfólio. Adicionada as funcionalidades em JavaScript
+O projeto desenvolvido durante os modulos de JavaScript Basico dentro da trilha full stack do programa da Rocketseat. Foi adicionada as funcionalidades como a conversão de moedas, seleção de moedas e validação do campo de entrada. 
 
 
 ![preview](.github/cover.png)
